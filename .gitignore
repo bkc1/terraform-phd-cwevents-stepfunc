@@ -1,0 +1,11 @@
+.idea/*
+.idea
+.terraform
+*tfstate*
+.DS_Store
+*.zip
+/.DS_Store
+/*tfstate*
+/.terraform
+/keys/mykey*
+/testing
