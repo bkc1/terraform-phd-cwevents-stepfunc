@@ -10,7 +10,7 @@ resource "aws_key_pair" "auth" {
 }
 
 terraform {
-  required_version = ">= 0.10.7"
+  required_version = ">= 0.12.6"
 }
 
 data "aws_ami" "amznlinux2" {
